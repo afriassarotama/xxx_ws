@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "xicro_interfaces/action/Toggle_Feedback",
+      "fields": [
+        {
+          "name": "flag",
+          "type": {
+            "type_id": 15,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "xicro_interfaces/action/Toggle_Feedback",
+      "hash_string": "RIHS01_2aa8d68b3928714be6c809d3403f26a77eb65833a3cdb5cca9ccef02770fa0a4"
+    }
+  ]
+}

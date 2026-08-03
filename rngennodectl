@@ -1,0 +1,1 @@
+ros2 run xicro_pkg generate_xicro_node_ctl.py -mcu_type arduino

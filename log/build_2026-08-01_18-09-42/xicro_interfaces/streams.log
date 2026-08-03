@@ -1,0 +1,25 @@
+[0.043s] Invoking command in '/home/twt4/xxx_ws/build/xicro_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_interfaces -- -j4 -l4
+[0.177s] [  5%] Built target xicro_interfaces__rosidl_generator_type_description
+[0.178s] [  5%] Built target xicro_interfaces__rs
+[0.214s] [  5%] Built target ament_cmake_python_copy_xicro_interfaces
+[0.254s] [  8%] Built target xicro_interfaces__cpp
+[0.255s] [ 22%] Built target xicro_interfaces__rosidl_generator_c
+[0.348s] [ 31%] Built target xicro_interfaces__rosidl_typesupport_introspection_c
+[0.360s] [ 40%] Built target xicro_interfaces__rosidl_typesupport_fastrtps_c
+[0.362s] [ 48%] Built target xicro_interfaces__rosidl_typesupport_c
+[0.420s] [ 57%] Built target xicro_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.449s] [ 65%] Built target xicro_interfaces__rosidl_typesupport_cpp
+[0.453s] [ 74%] Built target xicro_interfaces__rosidl_typesupport_introspection_cpp
+[0.535s] [ 74%] Built target xicro_interfaces
+[0.609s] [ 77%] Built target xicro_interfaces__py
+[0.685s] [ 82%] Built target xicro_interfaces__rosidl_generator_py
+[0.803s] [ 88%] Built target xicro_interfaces_s__rosidl_typesupport_introspection_c
+[0.830s] [ 94%] Built target xicro_interfaces_s__rosidl_typesupport_fastrtps_c
+[0.844s] [100%] Built target xicro_interfaces_s__rosidl_typesupport_c
+[1.288s] running egg_info
+[1.397s] writing xicro_interfaces.egg-info/PKG-INFO
+[1.397s] writing dependency_links to xicro_interfaces.egg-info/dependency_links.txt
+[1.398s] writing top-level names to xicro_interfaces.egg-info/top_level.txt
+[1.539s] reading manifest file 'xicro_interfaces.egg-info/SOURCES.txt'
+[1.540s] writing manifest file 'xicro_interfaces.egg-info/SOURCES.txt'
+[1.634s] [100%] Built target ament_cmake_python_build_xicro_interfaces_egg

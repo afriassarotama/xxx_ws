@@ -1,0 +1,200 @@
+[0.029s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[0.091s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.458s] -- Found rclcpp: 28.1.18 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.555s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.618s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.654s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.720s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.892s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.906s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.222s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.443s] -- Found rclpy: 7.1.11 (/opt/ros/jazzy/share/rclpy/cmake)
+[1.443s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[1.483s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[2.138s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[2.422s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.529s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.530s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[3.374s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[3.523s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.538s] -- Configuring done (3.5s)
+[3.671s] -- Generating done (0.1s)
+[3.747s] -- Build files have been written to: /home/twt4/xxx_ws/build/xicro_pkg
+[3.951s] [  2%] Built target xicro_pkg__rs
+[3.951s] [  5%] Built target xicro_pkg__rosidl_generator_type_description
+[4.054s] [  5%] Built target ament_cmake_python_copy_xicro_pkg
+[4.068s] [ 20%] Built target xicro_pkg__rosidl_generator_c
+[4.075s] [ 22%] Built target xicro_pkg__cpp
+[4.168s] [ 31%] Built target xicro_pkg__rosidl_typesupport_c
+[4.208s] [ 40%] Built target xicro_pkg__rosidl_typesupport_introspection_c
+[4.214s] [ 48%] Built target xicro_pkg__rosidl_typesupport_fastrtps_c
+[4.299s] [ 57%] Built target xicro_pkg__rosidl_typesupport_introspection_cpp
+[4.305s] [ 65%] Built target xicro_pkg__rosidl_typesupport_cpp
+[4.324s] [ 74%] Built target xicro_pkg__rosidl_typesupport_fastrtps_cpp
+[4.386s] [ 74%] Built target xicro_pkg
+[4.452s] [ 77%] Built target xicro_pkg__py
+[4.528s] [ 82%] Built target xicro_pkg__rosidl_generator_py
+[4.652s] [ 88%] Built target xicro_pkg_s__rosidl_typesupport_fastrtps_c
+[4.656s] [ 94%] Built target xicro_pkg_s__rosidl_typesupport_introspection_c
+[4.673s] [100%] Built target xicro_pkg_s__rosidl_typesupport_c
+[4.982s] running egg_info
+[5.062s] writing xicro_pkg.egg-info/PKG-INFO
+[5.062s] writing dependency_links to xicro_pkg.egg-info/dependency_links.txt
+[5.065s] writing top-level names to xicro_pkg.egg-info/top_level.txt
+[5.256s] reading manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[5.258s] writing manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[5.406s] [100%] Built target ament_cmake_python_build_xicro_pkg_egg
+[5.459s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[5.463s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg
+[5.492s] -- Install configuration: ""
+[5.492s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/rosidl_interfaces/xicro_pkg
+[5.492s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/msg/Pulsa.json
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/rosidl_generator_c__visibility_control.h
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/pulsa.h
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__description.c
+[5.493s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__struct.h
+[5.494s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__type_support.c
+[5.494s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__functions.c
+[5.494s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__functions.h
+[5.494s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__type_support.h
+[5.494s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/library_path.sh
+[5.494s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/library_path.dsv
+[5.498s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_generator_c.so
+[5.498s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.498s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.498s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__rosidl_typesupport_fastrtps_c.h
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_fastrtps_c.so
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/pulsa.hpp
+[5.499s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__type_support.hpp
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__struct.hpp
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__builder.hpp
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__traits.hpp
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/rosidl_generator_cpp__visibility_control.hpp
+[5.500s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.503s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.503s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/dds_fastrtps
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__rosidl_typesupport_fastrtps_cpp.hpp
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_fastrtps_cpp.so
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.504s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.505s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__type_support.c
+[5.505s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__rosidl_typesupport_introspection_c.h
+[5.506s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.506s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_introspection_c.so
+[5.507s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_c.so
+[5.508s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg
+[5.509s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg
+[5.509s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail
+[5.510s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__type_support.cpp
+[5.510s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/include/xicro_pkg/xicro_pkg/msg/detail/pulsa__rosidl_typesupport_introspection_cpp.hpp
+[5.511s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_introspection_cpp.so
+[5.512s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_typesupport_cpp.so
+[5.513s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.sh
+[5.513s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.dsv
+[5.515s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info
+[5.515s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/dependency_links.txt
+[5.516s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/PKG-INFO
+[5.516s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/top_level.txt
+[5.517s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/SOURCES.txt
+[5.518s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg
+[5.518s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/_xicro_pkg_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.519s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/_xicro_pkg_s.ep.rosidl_typesupport_c.c
+[5.519s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/_xicro_pkg_s.ep.rosidl_typesupport_introspection_c.c
+[5.520s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_c.so
+[5.520s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_introspection_c.so
+[5.520s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/__init__.py
+[5.520s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/msg
+[5.520s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/msg/_pulsa_s.c
+[5.522s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/msg/__init__.py
+[5.522s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/msg/_pulsa.py
+[5.522s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_fastrtps_c.so
+[5.655s] Listing '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg'...
+[5.656s] Compiling '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/__init__.py'...
+[5.657s] Listing '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/msg'...
+[5.681s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_fastrtps_c.so
+[5.682s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_introspection_c.so
+[5.683s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/xicro_pkg_s__rosidl_typesupport_c.so
+[5.683s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/libxicro_pkg__rosidl_generator_py.so
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/rust_packages/xicro_pkg
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/build.rs
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/Cargo.toml
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/src
+[5.685s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/src/msg.rs
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/src/lib.rs
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/src/msg
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/rust/src/msg/rmw.rs
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/msg/Pulsa.idl
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/msg/Pulsa.msg
+[5.686s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library.py
+[5.689s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library_twt.py
+[5.689s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library_pulse.py
+[5.689s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library_ctl.py
+[5.689s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node.py
+[5.689s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node_twt.py
+[5.689s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node_ctl.py
+[5.691s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_twt_ID_1_arduino.py
+[5.691s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_xxx_ID_1_arduino.py
+[5.693s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_rcv_ID_2_arduino.py
+[5.693s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_ctl_ID_1_arduino.py
+[5.693s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config
+[5.694s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro_ctl.yaml
+[5.694s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro_pulse.yaml
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.Xicro_node_preSetup.xicro
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_cpp_preSetup.xicro
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro2.yaml
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro_twt.yaml
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_h_preSetup.xicro
+[5.696s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro3.yaml
+[5.697s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro.yaml
+[5.697s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/package_run_dependencies/xicro_pkg
+[5.698s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/parent_prefix_path/xicro_pkg
+[5.698s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.sh
+[5.698s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.dsv
+[5.699s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.sh
+[5.699s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.dsv
+[5.699s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.bash
+[5.700s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.sh
+[5.700s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.zsh
+[5.700s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.dsv
+[5.700s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.dsv
+[5.702s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/packages/xicro_pkg
+[5.703s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_generator_cExport.cmake
+[5.704s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_generator_cExport-noconfig.cmake
+[5.705s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_typesupport_fastrtps_cExport.cmake
+[5.705s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.706s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_generator_cppExport.cmake
+[5.707s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.709s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.709s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_introspection_cExport.cmake
+[5.709s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.709s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_cExport.cmake
+[5.710s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_cExport-noconfig.cmake
+[5.710s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_introspection_cppExport.cmake
+[5.710s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.710s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_cppExport.cmake
+[5.710s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkg__rosidl_typesupport_cppExport-noconfig.cmake
+[5.711s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_generator_pyExport.cmake
+[5.715s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/export_xicro_pkg__rosidl_generator_pyExport-noconfig.cmake
+[5.715s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/rosidl_cmake-extras.cmake
+[5.715s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.715s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/ament_cmake_export_libraries-extras.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/ament_cmake_export_targets-extras.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig-version.cmake
+[5.716s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.xml
+[5.721s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg

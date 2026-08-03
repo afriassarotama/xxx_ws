@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-84202f47a881c5bb31ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "xicro_interfaces__py",
+					"jsonFile" : "directory-xicro_interfaces__py-51a1cbbe9032924d52ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/twt4/xxx_ws/build/xicro_interfaces/xicro_interfaces__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "xicro_interfaces__rs",
+					"jsonFile" : "directory-xicro_interfaces__rs-387b37e649b1edbe7983.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/twt4/xxx_ws/build/xicro_interfaces/xicro_interfaces__rs",
+					"targetIndexes" : 
+					[
+						15
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "xicro_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_xicro_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_xicro_interfaces_egg-2bee390f32ce20d02e05.json",
+					"name" : "ament_cmake_python_build_xicro_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_xicro_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_xicro_interfaces-5c4c1b32404fc4793a9c.json",
+					"name" : "ament_cmake_python_copy_xicro_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-784910bdcd24e4d2e4e3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces-6e277c78e1f16704fe69.json",
+					"name" : "xicro_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__cpp-e18cd5f185fc0e37b75d.json",
+					"name" : "xicro_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "xicro_interfaces__py::@6e9171019a4e84112b3e",
+					"jsonFile" : "target-xicro_interfaces__py-5b54b5bdb9eea10fca51.json",
+					"name" : "xicro_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_generator_c-ce13061f62f4cb6c7407.json",
+					"name" : "xicro_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_generator_py-eae68104bd0476f433ab.json",
+					"name" : "xicro_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_generator_type_description-98306e90688ac7257b5e.json",
+					"name" : "xicro_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_c-be6af998b4fbbb7059bd.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_cpp-c3d62928f1bb08ca63ae.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_fastrtps_c-3f44de25ca451167e812.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_fastrtps_cpp-4c0411b4e3ebd7bdb9d4.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_introspection_c-73738f224622d02ced55.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces__rosidl_typesupport_introspection_cpp-e4f9b6dd18966756d6f8.json",
+					"name" : "xicro_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "xicro_interfaces__rs::@6c98429cc85361839510",
+					"jsonFile" : "target-xicro_interfaces__rs-cd912f1a6f1d49f04e86.json",
+					"name" : "xicro_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces_s__rosidl_typesupport_c-15a13eec1d925d513917.json",
+					"name" : "xicro_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces_s__rosidl_typesupport_fastrtps_c-aad0fc8511d48d1ab587.json",
+					"name" : "xicro_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces_s__rosidl_typesupport_introspection_c-476783ef4f41300a0c39.json",
+					"name" : "xicro_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_interfaces_uninstall-62aba681586435b7f536.json",
+					"name" : "xicro_interfaces_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/twt4/xxx_ws/build/xicro_interfaces",
+		"source" : "/home/twt4/xxx_ws/src/Xicro/xicro_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

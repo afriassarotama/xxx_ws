@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-859875b3fd31f862ddac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "xicro_pkg__py",
+					"jsonFile" : "directory-xicro_pkg__py-45e3322c5f4e014541c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/twt4/xxx_ws/build/xicro_pkg/xicro_pkg__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "xicro_pkg__rs",
+					"jsonFile" : "directory-xicro_pkg__rs-6dbb8a53e1f52d7a30e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/twt4/xxx_ws/build/xicro_pkg/xicro_pkg__rs",
+					"targetIndexes" : 
+					[
+						15
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "xicro_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_xicro_pkg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_xicro_pkg_egg-cfb74cb69fb005d1eab7.json",
+					"name" : "ament_cmake_python_build_xicro_pkg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_xicro_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_xicro_pkg-2e42d3b8946e1fcabd0d.json",
+					"name" : "ament_cmake_python_copy_xicro_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-85f1d904ac4d6128ed81.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg-d055c989cdbeee294595.json",
+					"name" : "xicro_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__cpp-868bc94dbb7d04edf8c9.json",
+					"name" : "xicro_pkg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "xicro_pkg__py::@7869461cbbe6fbbfd04b",
+					"jsonFile" : "target-xicro_pkg__py-4eeb54609354b856c0ad.json",
+					"name" : "xicro_pkg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_generator_c-0a47b4a534c1a21bde0d.json",
+					"name" : "xicro_pkg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_generator_py-4934dc4d03700eedf5d9.json",
+					"name" : "xicro_pkg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_generator_type_description-29e788e0e9576386a151.json",
+					"name" : "xicro_pkg__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_c-7c16e4377417f04eab84.json",
+					"name" : "xicro_pkg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_cpp-a51b347ad02206d4b38b.json",
+					"name" : "xicro_pkg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_fastrtps_c-3667d78f880242722a96.json",
+					"name" : "xicro_pkg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_fastrtps_cpp-00f354c8ccf5a0591f92.json",
+					"name" : "xicro_pkg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_introspection_c-4c895de49354d59dc26c.json",
+					"name" : "xicro_pkg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg__rosidl_typesupport_introspection_cpp-d1c5a39f9934072f27e1.json",
+					"name" : "xicro_pkg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "xicro_pkg__rs::@095da351da2cabf4c2e0",
+					"jsonFile" : "target-xicro_pkg__rs-c2bbae152e31545fbdc5.json",
+					"name" : "xicro_pkg__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg_s__rosidl_typesupport_c-429461ceeaa0a6f9f20e.json",
+					"name" : "xicro_pkg_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg_s__rosidl_typesupport_fastrtps_c-e6fccfb6c847d73e7aa4.json",
+					"name" : "xicro_pkg_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg_s__rosidl_typesupport_introspection_c-b3b1723a6f874b2acfdc.json",
+					"name" : "xicro_pkg_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xicro_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xicro_pkg_uninstall-8af7870c8b1f9ea0cb53.json",
+					"name" : "xicro_pkg_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/twt4/xxx_ws/build/xicro_pkg",
+		"source" : "/home/twt4/xxx_ws/src/Xicro/xicro_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

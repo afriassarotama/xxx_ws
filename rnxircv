@@ -1,0 +1,1 @@
+ros2 run xicro_pkg xicro_node_rcv_ID_2_arduino.py

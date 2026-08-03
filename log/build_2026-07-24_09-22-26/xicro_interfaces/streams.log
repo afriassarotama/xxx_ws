@@ -1,0 +1,247 @@
+[0.034s] Invoking command in '/home/twt4/xxx_ws/build/xicro_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/twt4/xxx_ws/src/Xicro/xicro_interfaces -DCMAKE_INSTALL_PREFIX=/home/twt4/xxx_ws/install/xicro_interfaces
+[0.736s] -- The C compiler identification is GNU 13.3.0
+[1.194s] -- The CXX compiler identification is GNU 13.3.0
+[1.234s] -- Detecting C compiler ABI info
+[1.467s] -- Detecting C compiler ABI info - done
+[1.480s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.481s] -- Detecting C compile features
+[1.482s] -- Detecting C compile features - done
+[1.499s] -- Detecting CXX compiler ABI info
+[1.717s] -- Detecting CXX compiler ABI info - done
+[1.733s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.733s] -- Detecting CXX compile features
+[1.734s] -- Detecting CXX compile features - done
+[1.753s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.096s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.427s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[2.462s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.634s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.783s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[2.799s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.146s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[4.965s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.959s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.973s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[6.210s] -- Found PythonExtra: /usr/bin/python3  
+[7.354s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[7.476s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[7.481s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.486s] -- Added test 'lint_cmake' to check CMake code style
+[7.490s] -- Added test 'xmllint' to check XML markup files
+[7.510s] -- Configuring done (7.3s)
+[7.572s] -- Generating done (0.0s)
+[7.590s] -- Build files have been written to: /home/twt4/xxx_ws/build/xicro_interfaces
+[7.612s] Invoked command in '/home/twt4/xxx_ws/build/xicro_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/twt4/xxx_ws/src/Xicro/xicro_interfaces -DCMAKE_INSTALL_PREFIX=/home/twt4/xxx_ws/install/xicro_interfaces
+[7.614s] Invoking command in '/home/twt4/xxx_ws/build/xicro_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_interfaces -- -j4 -l4
+[7.724s] [  5%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[7.724s] [  5%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[7.750s] [  5%] Built target ament_cmake_python_copy_xicro_interfaces
+[8.115s] [  5%] Built target xicro_interfaces__rosidl_generator_type_description
+[8.152s] [  8%] [34m[1mGenerating C code for ROS interfaces[0m
+[8.181s] [ 11%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[8.202s] running egg_info
+[8.204s] creating xicro_interfaces.egg-info
+[8.261s] writing xicro_interfaces.egg-info/PKG-INFO
+[8.262s] writing dependency_links to xicro_interfaces.egg-info/dependency_links.txt
+[8.263s] writing top-level names to xicro_interfaces.egg-info/top_level.txt
+[8.266s] writing manifest file 'xicro_interfaces.egg-info/SOURCES.txt'
+[8.279s] [ 11%] Built target xicro_interfaces__rs
+[8.387s] reading manifest file 'xicro_interfaces.egg-info/SOURCES.txt'
+[8.388s] writing manifest file 'xicro_interfaces.egg-info/SOURCES.txt'
+[8.473s] [ 11%] Built target ament_cmake_python_build_xicro_interfaces_egg
+[8.887s] [ 11%] Built target xicro_interfaces__cpp
+[8.948s] [ 17%] [32mBuilding C object CMakeFiles/xicro_interfaces__rosidl_generator_c.dir/rosidl_generator_c/xicro_interfaces/action/detail/toggle__type_support.c.o[0m
+[8.948s] [ 17%] [32mBuilding C object CMakeFiles/xicro_interfaces__rosidl_generator_c.dir/rosidl_generator_c/xicro_interfaces/action/detail/toggle__description.c.o[0m
+[8.948s] [ 20%] [32mBuilding C object CMakeFiles/xicro_interfaces__rosidl_generator_c.dir/rosidl_generator_c/xicro_interfaces/action/detail/toggle__functions.c.o[0m
+[9.268s] [ 22%] [32m[1mLinking C shared library libxicro_interfaces__rosidl_generator_c.so[0m
+[9.359s] [ 22%] Built target xicro_interfaces__rosidl_generator_c
+[9.386s] [ 31%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[9.386s] [ 31%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[9.386s] [ 31%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[9.386s] [ 34%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[9.923s] [ 37%] [32mBuilding CXX object CMakeFiles/xicro_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/xicro_interfaces/action/toggle__type_support.cpp.o[0m
+[10.069s] [ 40%] [32mBuilding C object CMakeFiles/xicro_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/xicro_interfaces/action/detail/toggle__type_support.c.o[0m
+[10.080s] [ 42%] [32m[1mLinking CXX shared library libxicro_interfaces__rosidl_typesupport_c.so[0m
+[10.195s] [ 42%] Built target xicro_interfaces__rosidl_typesupport_c
+[10.225s] [ 45%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[10.240s] [ 48%] [32m[1mLinking C shared library libxicro_interfaces__rosidl_typesupport_introspection_c.so[0m
+[10.260s] [ 51%] [32mBuilding CXX object CMakeFiles/xicro_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/xicro_interfaces/action/detail/dds_fastrtps/toggle__type_support.cpp.o[0m
+[10.341s] [ 51%] Built target xicro_interfaces__rosidl_typesupport_introspection_c
+[10.357s] [ 54%] [32mBuilding CXX object CMakeFiles/xicro_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/xicro_interfaces/action/detail/toggle__type_support_c.cpp.o[0m
+[10.367s] [ 57%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[10.930s] [ 60%] [32mBuilding CXX object CMakeFiles/xicro_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/xicro_interfaces/action/detail/toggle__type_support.cpp.o[0m
+[10.950s] [ 62%] [32mBuilding CXX object CMakeFiles/xicro_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/xicro_interfaces/action/toggle__type_support.cpp.o[0m
+[11.750s] [ 65%] [32m[1mLinking CXX shared library libxicro_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[11.902s] [ 65%] Built target xicro_interfaces__rosidl_typesupport_fastrtps_c
+[12.408s] [ 68%] [32m[1mLinking CXX shared library libxicro_interfaces__rosidl_typesupport_cpp.so[0m
+[12.448s] [ 71%] [32m[1mLinking CXX shared library libxicro_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[12.591s] [ 74%] [32m[1mLinking CXX shared library libxicro_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[12.651s] [ 74%] Built target xicro_interfaces__rosidl_typesupport_cpp
+[12.678s] [ 74%] Built target xicro_interfaces__rosidl_typesupport_introspection_cpp
+[12.775s] [ 74%] Built target xicro_interfaces__rosidl_typesupport_fastrtps_cpp
+[12.820s] [ 74%] Built target xicro_interfaces
+[12.865s] [ 77%] [34m[1mGenerating Python code for ROS interfaces[0m
+[13.850s] [ 77%] Built target xicro_interfaces__py
+[13.894s] [ 80%] [32mBuilding C object CMakeFiles/xicro_interfaces__rosidl_generator_py.dir/rosidl_generator_py/xicro_interfaces/action/_toggle_s.c.o[0m
+[14.717s] [ 82%] [32m[1mLinking C shared library libxicro_interfaces__rosidl_generator_py.so[0m
+[14.818s] [ 82%] Built target xicro_interfaces__rosidl_generator_py
+[14.865s] [ 91%] [32mBuilding C object CMakeFiles/xicro_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[14.865s] [ 91%] [32mBuilding C object CMakeFiles/xicro_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[14.865s] [ 91%] [32mBuilding C object CMakeFiles/xicro_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[15.107s] [ 94%] [32m[1mLinking C shared module rosidl_generator_py/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_c.so[0m
+[15.109s] [100%] [32m[1mLinking C shared module rosidl_generator_py/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[15.109s] [100%] [32m[1mLinking C shared module rosidl_generator_py/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[15.180s] [100%] Built target xicro_interfaces_s__rosidl_typesupport_c
+[15.180s] [100%] Built target xicro_interfaces_s__rosidl_typesupport_fastrtps_c
+[15.183s] [100%] Built target xicro_interfaces_s__rosidl_typesupport_introspection_c
+[15.209s] Invoked command in '/home/twt4/xxx_ws/build/xicro_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_interfaces -- -j4 -l4
+[15.211s] Invoking command in '/home/twt4/xxx_ws/build/xicro_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_interfaces
+[15.231s] -- Install configuration: ""
+[15.231s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/ament_index/resource_index/rosidl_interfaces/xicro_interfaces
+[15.231s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/action/Toggle.json
+[15.231s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__struct.h
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__type_support.h
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__functions.c
+[15.232s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__description.c
+[15.233s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__functions.h
+[15.233s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__type_support.c
+[15.233s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/toggle.h
+[15.233s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg
+[15.233s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg/rosidl_generator_c__visibility_control.h
+[15.234s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/library_path.sh
+[15.234s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/library_path.dsv
+[15.234s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_generator_c.so
+[15.235s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_generator_c.so" to ""
+[15.235s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.235s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.235s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.235s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__rosidl_typesupport_fastrtps_c.h
+[15.235s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg
+[15.235s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[15.235s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_fastrtps_c.so
+[15.236s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[15.236s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.236s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.236s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.237s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__rosidl_typesupport_introspection_c.h
+[15.237s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__type_support.c
+[15.237s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg
+[15.237s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[15.237s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_introspection_c.so
+[15.238s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[15.238s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_c.so
+[15.238s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_c.so" to ""
+[15.238s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.239s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.239s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__struct.hpp
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__type_support.hpp
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__traits.hpp
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__builder.hpp
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/toggle.hpp
+[15.239s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg
+[15.239s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[15.240s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.240s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.240s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.240s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/dds_fastrtps
+[15.240s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__rosidl_typesupport_fastrtps_cpp.hpp
+[15.240s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg
+[15.240s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[15.240s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[15.241s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[15.241s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces
+[15.241s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action
+[15.242s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail
+[15.242s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__type_support.cpp
+[15.242s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/include/xicro_interfaces/xicro_interfaces/action/detail/toggle__rosidl_typesupport_introspection_cpp.hpp
+[15.242s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_introspection_cpp.so
+[15.243s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[15.243s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_cpp.so
+[15.244s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_typesupport_cpp.so" to ""
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/pythonpath.sh
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/pythonpath.dsv
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces-0.0.0-py3.12.egg-info
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+[15.244s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+[15.245s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+[15.245s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces
+[15.245s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_c.c
+[15.245s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[15.245s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[15.246s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action
+[15.246s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action/_toggle_s.c
+[15.246s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action/_toggle.py
+[15.246s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action/__init__.py
+[15.246s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_introspection_c.so
+[15.247s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/_xicro_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[15.247s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/__init__.py
+[15.247s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_c.so
+[15.325s] Listing '/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces'...
+[15.325s] Compiling '/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/__init__.py'...
+[15.325s] Listing '/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action'...
+[15.325s] Compiling '/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action/__init__.py'...
+[15.325s] Compiling '/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/action/_toggle.py'...
+[15.338s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[15.339s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_fastrtps_c.so" to ""
+[15.339s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_introspection_c.so
+[15.340s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_introspection_c.so" to ""
+[15.340s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_c.so
+[15.341s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/python3.12/site-packages/xicro_interfaces/xicro_interfaces_s__rosidl_typesupport_c.so" to ""
+[15.341s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_generator_py.so
+[15.341s] -- Set non-toolchain portion of runtime path of "/home/twt4/xxx_ws/install/xicro_interfaces/lib/libxicro_interfaces__rosidl_generator_py.so" to ""
+[15.341s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/ament_index/resource_index/rust_packages/xicro_interfaces
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/build.rs
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/Cargo.toml
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/src
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/src/action
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/src/action/rmw.rs
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/src/lib.rs
+[15.342s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/rust/src/action.rs
+[15.343s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/action/Toggle.idl
+[15.343s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/action/Toggle.action
+[15.343s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/ament_index/resource_index/package_run_dependencies/xicro_interfaces
+[15.343s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/ament_index/resource_index/parent_prefix_path/xicro_interfaces
+[15.344s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/ament_prefix_path.sh
+[15.344s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/ament_prefix_path.dsv
+[15.344s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/path.sh
+[15.344s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/environment/path.dsv
+[15.344s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/local_setup.bash
+[15.345s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/local_setup.sh
+[15.345s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/local_setup.zsh
+[15.345s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/local_setup.dsv
+[15.345s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/package.dsv
+[15.345s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/ament_index/resource_index/packages/xicro_interfaces
+[15.346s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_generator_cExport.cmake
+[15.346s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_generator_cExport-noconfig.cmake
+[15.346s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[15.346s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[15.346s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[15.347s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[15.347s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_cExport.cmake
+[15.347s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[15.347s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_generator_cppExport.cmake
+[15.348s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[15.348s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[15.348s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[15.348s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[15.348s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_cppExport.cmake
+[15.349s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[15.349s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_generator_pyExport.cmake
+[15.349s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/export_xicro_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[15.349s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/rosidl_cmake-extras.cmake
+[15.349s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[15.350s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[15.350s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[15.350s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[15.350s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[15.350s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[15.351s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfacesConfig.cmake
+[15.351s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/cmake/xicro_interfacesConfig-version.cmake
+[15.351s] -- Installing: /home/twt4/xxx_ws/install/xicro_interfaces/share/xicro_interfaces/package.xml
+[15.355s] Invoked command in '/home/twt4/xxx_ws/build/xicro_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_interfaces

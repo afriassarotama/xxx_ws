@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "xicro_pkg/msg/Pulsa",
+      "fields": [
+        {
+          "name": "kiri",
+          "type": {
+            "type_id": 7,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "kanan",
+          "type": {
+            "type_id": 7,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "xicro_pkg/msg/Pulsa",
+      "hash_string": "RIHS01_74ef5d294b705f8547c4dd5712e2d5afb55380608937c92240b8db4ea329dbe2"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[0.048s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[0.331s] Built target ament_cmake_python_copy_xicro_pkg
+[1.232s] running egg_info
+[1.272s] writing xicro_pkg.egg-info/PKG-INFO
+[1.272s] writing dependency_links to xicro_pkg.egg-info/dependency_links.txt
+[1.273s] writing top-level names to xicro_pkg.egg-info/top_level.txt
+[1.413s] reading manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[1.414s] writing manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[1.519s] Built target ament_cmake_python_build_xicro_pkg_egg
+[1.560s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[1.653s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg
+[1.729s] -- Install configuration: ""
+[1.729s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.sh
+[1.731s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.dsv
+[1.733s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info
+[1.736s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/dependency_links.txt
+[1.736s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/PKG-INFO
+[1.736s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/top_level.txt
+[1.736s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/SOURCES.txt
+[1.737s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg
+[1.737s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/__init__.py
+[1.949s] Listing '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg'...
+[1.991s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library.py
+[1.996s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library_twt.py
+[2.000s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library_ctl.py
+[2.001s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node.py
+[2.001s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node_twt.py
+[2.003s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node_ctl.py
+[2.004s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_twt_ID_1_arduino.py
+[2.004s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_xxx_ID_1_arduino.py
+[2.004s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_rcv_ID_2_arduino.py
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_twt_ID_1_arduino.py
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/xicro_node_ctl_ID_1_arduino.py
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro_ctl.yaml
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.Xicro_node_preSetup.xicro
+[2.008s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_cpp_preSetup.xicro
+[2.009s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro2.yaml
+[2.009s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro_twt.yaml
+[2.012s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_h_preSetup.xicro
+[2.012s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro3.yaml
+[2.012s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro.yaml
+[2.016s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/package_run_dependencies/xicro_pkg
+[2.017s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/parent_prefix_path/xicro_pkg
+[2.018s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.sh
+[2.018s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.dsv
+[2.018s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.sh
+[2.018s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.dsv
+[2.019s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.bash
+[2.023s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.sh
+[2.023s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.zsh
+[2.023s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.dsv
+[2.024s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.dsv
+[2.024s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/packages/xicro_pkg
+[2.024s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig.cmake
+[2.024s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig-version.cmake
+[2.024s] -- Up-to-date: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.xml
+[2.026s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg

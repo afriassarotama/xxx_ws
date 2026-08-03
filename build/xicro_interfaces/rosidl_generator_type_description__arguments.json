@@ -1,0 +1,13 @@
+{
+  "package_name": "xicro_interfaces",
+  "output_dir": "/home/twt4/xxx_ws/build/xicro_interfaces/rosidl_generator_type_description/xicro_interfaces",
+  "idl_tuples": [
+    "/home/twt4/xxx_ws/build/xicro_interfaces/rosidl_adapter/xicro_interfaces:action/Toggle.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs"
+  ]
+}

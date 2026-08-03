@@ -1,0 +1,78 @@
+[0.020s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/twt4/xxx_ws/src/Xicro/xicro_pkg -DCMAKE_INSTALL_PREFIX=/home/twt4/xxx_ws/install/xicro_pkg
+[0.714s] -- The C compiler identification is GNU 13.3.0
+[1.172s] -- The CXX compiler identification is GNU 13.3.0
+[1.213s] -- Detecting C compiler ABI info
+[1.443s] -- Detecting C compiler ABI info - done
+[1.458s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.459s] -- Detecting C compile features
+[1.460s] -- Detecting C compile features - done
+[1.477s] -- Detecting CXX compiler ABI info
+[1.695s] -- Detecting CXX compiler ABI info - done
+[1.711s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.711s] -- Detecting CXX compile features
+[1.712s] -- Detecting CXX compile features - done
+[1.732s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.075s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.407s] -- Found rclcpp: 28.1.18 (/opt/ros/jazzy/share/rclcpp/cmake)
+[2.549s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[2.592s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[2.644s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.691s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.904s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[2.921s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[3.180s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[3.219s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[3.263s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.460s] -- Found rclpy: 7.1.11 (/opt/ros/jazzy/share/rclpy/cmake)
+[3.896s] -- Configuring done (3.7s)
+[3.905s] -- Generating done (0.0s)
+[3.909s] -- Build files have been written to: /home/twt4/xxx_ws/build/xicro_pkg
+[3.932s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/twt4/xxx_ws/src/Xicro/xicro_pkg -DCMAKE_INSTALL_PREFIX=/home/twt4/xxx_ws/install/xicro_pkg
+[3.935s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[4.067s] Built target ament_cmake_python_copy_xicro_pkg
+[4.471s] running egg_info
+[4.472s] creating xicro_pkg.egg-info
+[4.509s] writing xicro_pkg.egg-info/PKG-INFO
+[4.510s] writing dependency_links to xicro_pkg.egg-info/dependency_links.txt
+[4.510s] writing top-level names to xicro_pkg.egg-info/top_level.txt
+[4.510s] writing manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[4.623s] reading manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[4.624s] writing manifest file 'xicro_pkg.egg-info/SOURCES.txt'
+[4.715s] Built target ament_cmake_python_build_xicro_pkg_egg
+[4.740s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[4.763s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg
+[4.782s] -- Install configuration: ""
+[4.782s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.sh
+[4.782s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/pythonpath.dsv
+[4.782s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info
+[4.783s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/dependency_links.txt
+[4.783s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/PKG-INFO
+[4.783s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/top_level.txt
+[4.783s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg-0.0.0-py3.12.egg-info/SOURCES.txt
+[4.783s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg
+[4.784s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/__init__.py
+[4.854s] Listing '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg'...
+[4.855s] Compiling '/home/twt4/xxx_ws/install/xicro_pkg/lib/python3.12/site-packages/xicro_pkg/__init__.py'...
+[4.870s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_library.py
+[4.871s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/lib/xicro_pkg/generate_xicro_node.py
+[4.871s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config
+[4.871s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.Xicro_node_preSetup.xicro
+[4.871s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_cpp_preSetup.xicro
+[4.872s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/.library_h_preSetup.xicro
+[4.872s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/config/setup_xicro.yaml
+[4.872s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/package_run_dependencies/xicro_pkg
+[4.872s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/parent_prefix_path/xicro_pkg
+[4.873s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.sh
+[4.873s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/ament_prefix_path.dsv
+[4.873s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.sh
+[4.873s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/environment/path.dsv
+[4.873s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.bash
+[4.874s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.sh
+[4.874s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.zsh
+[4.874s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/local_setup.dsv
+[4.874s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.dsv
+[4.874s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/ament_index/resource_index/packages/xicro_pkg
+[4.875s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig.cmake
+[4.875s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/cmake/xicro_pkgConfig-version.cmake
+[4.875s] -- Installing: /home/twt4/xxx_ws/install/xicro_pkg/share/xicro_pkg/package.xml
+[4.879s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/twt4/ros2_modules/install/ntrip_client:/home/twt4/ros2_modules/install/nmea_navsat_driver:/home/twt4/ros2_modules/install/handsfree_ros2_imu:/home/twt4/turtlebot3_ws/install/turtlebot3_teleop:/home/twt4/turtlebot3_ws/install/turtlebot3_example:/home/twt4/ros2_ws/install/twt_fuse:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/twt4/xxx_ws/build/xicro_pkg

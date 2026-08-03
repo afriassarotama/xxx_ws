@@ -1,0 +1,2 @@
+Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '2': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4

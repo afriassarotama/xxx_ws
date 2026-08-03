@@ -1,0 +1,1 @@
+ros2 topic pub -1 /hapus std_msgs/Char "{data: 41}"

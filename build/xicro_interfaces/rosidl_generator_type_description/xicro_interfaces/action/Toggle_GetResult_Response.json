@@ -1,0 +1,56 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "xicro_interfaces/action/Toggle_GetResult_Response",
+      "fields": [
+        {
+          "name": "status",
+          "type": {
+            "type_id": 2,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "result",
+          "type": {
+            "type_id": 1,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": "xicro_interfaces/action/Toggle_Result"
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": [
+      {
+        "type_name": "xicro_interfaces/action/Toggle_Result",
+        "fields": [
+          {
+            "name": "sum",
+            "type": {
+              "type_id": 9,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "type_hashes": [
+    {
+      "type_name": "xicro_interfaces/action/Toggle_GetResult_Response",
+      "hash_string": "RIHS01_b51d8c69881c5c5ab5a6be6d61d5c4922da9e7f3c543b655e984ed3456c3002b"
+    },
+    {
+      "type_name": "xicro_interfaces/action/Toggle_Result",
+      "hash_string": "RIHS01_aa1fb21c17a9bf5b8bd2a51290df5d70174073a07100ad3531d2260e354e6428"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[31mCMake Error at /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:122 (add_custom_target):
+  add_custom_target cannot create target "ament_cmake_python_copy_xicro_pkg"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/twt4/xxx_ws/src/Xicro/xicro_pkg".  See documentation for policy
+  CMP0002 for more details.
+Call Stack (most recent call first):
+  /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:39 (_ament_cmake_python_install_package)
+  CMakeLists.txt:31 (ament_python_install_package)
+
+[0m
+[31mCMake Error at /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:144 (add_custom_target):
+  add_custom_target cannot create target
+  "ament_cmake_python_build_xicro_pkg_egg" because another target with the
+  same name already exists.  The existing target is a custom target created
+  in source directory "/home/twt4/xxx_ws/src/Xicro/xicro_pkg".  See
+  documentation for policy CMP0002 for more details.
+Call Stack (most recent call first):
+  /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:39 (_ament_cmake_python_install_package)
+  CMakeLists.txt:31 (ament_python_install_package)
+
+[0m
+gmake: *** [Makefile:829: cmake_check_build_system] Error 1

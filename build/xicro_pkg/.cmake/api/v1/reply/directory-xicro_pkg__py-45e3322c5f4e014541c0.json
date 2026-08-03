@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "xicro_pkg__py",
+		"source" : "/home/twt4/xxx_ws/build/xicro_pkg/xicro_pkg__py"
+	}
+}

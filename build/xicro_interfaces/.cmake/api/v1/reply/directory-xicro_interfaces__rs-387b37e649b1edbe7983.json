@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "xicro_interfaces__rs",
+		"source" : "/home/twt4/xxx_ws/build/xicro_interfaces/xicro_interfaces__rs"
+	}
+}

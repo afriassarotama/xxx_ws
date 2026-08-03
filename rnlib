@@ -1,0 +1,1 @@
+ros2 run xicro_pkg generate_library.py -mcu_type arduino

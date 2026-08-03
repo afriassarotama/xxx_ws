@@ -1,0 +1,43 @@
+[0.038s] Invoking command in '/home/twt4/xxx_ws/build/xicro_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4
+[0.094s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.838s] -- Found rclcpp: 28.1.18 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.883s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.897s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.915s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.936s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.028s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.031s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.167s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.303s] -- Found rclpy: 7.1.11 (/opt/ros/jazzy/share/rclpy/cmake)
+[1.319s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[1.404s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[1.556s] Error parsing '/home/twt4/xxx_ws/src/Xicro/xicro_pkg/package.xml':
+[10.592s] Traceback (most recent call last):
+[10.592s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[10.592s]     main()
+[10.594s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[10.594s]     raise e
+[10.594s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[10.594s]     package = parse_package_string(
+[10.594s]               ^^^^^^^^^^^^^^^^^^^^^
+[10.594s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 786, in parse_package_string
+[10.594s]     raise InvalidPackage('Error(s):%s' % (''.join(['\n- %s' % e for e in errors])), filename)
+[10.594s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/twt4/xxx_ws/src/Xicro/xicro_pkg/package.xml':
+[10.595s] Error(s):
+[10.595s] - The manifest of package "xicro_pkg" (with format version 3) must not contain the following tags: build_tool_depend
+[10.715s] [31mCMake Error at /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[10.715s]   execute_process(/usr/bin/python3
+[10.716s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[10.716s]   /home/twt4/xxx_ws/src/Xicro/xicro_pkg/package.xml
+[10.716s]   /home/twt4/xxx_ws/build/xicro_pkg/ament_cmake_core/package.cmake) returned
+[10.716s]   error code 1
+[10.716s] Call Stack (most recent call first):
+[10.716s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[10.716s]   /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:60 (ament_package_xml)
+[10.716s]   /opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake:39 (_ament_cmake_python_install_package)
+[10.717s]   CMakeLists.txt:27 (ament_python_install_package)
+[10.717s] 
+[10.717s] [0m
+[10.717s] -- Configuring incomplete, errors occurred!
+[10.736s] gmake: *** [Makefile:254: cmake_check_build_system] Error 1
+[10.741s] Invoked command in '/home/twt4/xxx_ws/build/xicro_pkg' returned '2': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/twt4/xxx_ws/build/xicro_pkg -- -j4 -l4

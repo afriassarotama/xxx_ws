@@ -1,0 +1,7 @@
+{
+  "package_name": "xicro_pkg",
+  "output_dir": "/home/twt4/xxx_ws/build/xicro_pkg/rosidl_generator_type_description/xicro_pkg",
+  "idl_tuples": [
+    "/home/twt4/xxx_ws/build/xicro_pkg/rosidl_adapter/xicro_pkg:msg/Pulse.idl"
+  ]
+}
