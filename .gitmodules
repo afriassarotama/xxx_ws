@@ -1,0 +1,3 @@
+[submodule "src/Xicro"]
+	path = src/Xicro
+	url = https://github.com/coxsys-robotics/XICRO
